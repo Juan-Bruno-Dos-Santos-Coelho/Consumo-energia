@@ -9,7 +9,7 @@ Ajudar na economia energética, permitindo calcular rapidamente o impacto de cad
 ![Python](https://shields.io)
 ![Git](https://shields.io)
 ![GitHub](https://shields.io)
-![Energia](https://shields.io⚡-yellow?style=for-the-badge)
+![Energia](https://shields.io)
 
 #  Fórmula Utilizada
 
