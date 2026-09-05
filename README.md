@@ -1,4 +1,4 @@
-# Calculadora de Consumo Elétrico Inteligente
+# Calculadora de Consumo Elétrico 
 
 O sistema consiste em uma ferramenta de linha de comando que ajuda usuários a estimarem o consumo de energia elétrica e o custo mensal de diferentes eletrodomésticos.
 
