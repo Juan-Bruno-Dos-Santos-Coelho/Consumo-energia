@@ -8,10 +8,6 @@ Aprender a manipular dados de entradas e
 # 🔧Tecnologias Utilizadas
 <div style="display: inline_block"><br> 
  <img align="center" alt="Python" height="40" width="40"
-<div style="display: inline_block"><br> 
- <img align="center" alt="Git" height="40" width="40"
-<div style="display: inline_block"><br> 
- <img align="center" alt="Github" height="40" width="40"
 
 # Como Executar o Programa
 
