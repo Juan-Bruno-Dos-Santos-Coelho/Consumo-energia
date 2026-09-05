@@ -6,15 +6,9 @@ O sistema consiste em uma ferramenta de linha de comando que ajuda usuários a e
 Ajudar na economia energética, permitindo calcular rapidamente o impacto de cada aparelho na conta de luz com base em dados simples de uso diário.
 
 # 🔧Tecnologias Utilizadas
-![Python](https://shields.io)
-![Git](https://shields.io)
-![GitHub](https://shields.io)
-
-#  Fórmula Utilizada
-
-$$\text{consumoMensal} = \frac{\text{potencia} \times \text{horasDia} \times 30}{1000}$$
-
-*Onde a potência é dada em Watts (W) e o tempo em horas.*
+[![Python](https://shields.io)]
+[![Git](https://shields.io)]
+[![GitHub](https://shields.io)]
 
 # Como Executar o Programa
 
