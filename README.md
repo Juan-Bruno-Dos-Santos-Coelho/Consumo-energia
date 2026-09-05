@@ -3,7 +3,7 @@
 O sistema consiste em uma ferramenta de linha de comando que ajuda usuários a estimarem o consumo de energia elétrica e o custo mensal de diferentes eletrodomésticos.
 
 # 🎯 Objetivo
-Aprender a manipular dados de entradas e 
+Aprender a manipular dados de entradas e aplicar funções aritmética em fórmulas.
 
 # 🔧Tecnologias Utilizadas
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
