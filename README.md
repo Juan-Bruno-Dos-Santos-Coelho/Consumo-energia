@@ -2,13 +2,16 @@
 
 O sistema consiste em uma ferramenta de linha de comando que ajuda usuários a estimarem o consumo de energia elétrica e o custo mensal de diferentes eletrodomésticos.
 
-# 🎯 Objetivo do Sistema
-Ajudar na economia energética, permitindo calcular rapidamente o impacto de cada aparelho na conta de luz com base em dados simples de uso diário.
+# 🎯 Objetivo
+Aprender a manipular dados de entradas e 
 
 # 🔧Tecnologias Utilizadas
-[![Python](https://shields.io)]
-[![Git](https://shields.io)]
-[![GitHub](https://shields.io)]
+<div style="display: inline_block"><br> 
+ <img align="center" alt="Python" height="40" width="40"
+<div style="display: inline_block"><br> 
+ <img align="center" alt="Git" height="40" width="40"
+<div style="display: inline_block"><br> 
+ <img align="center" alt="Github" height="40" width="40"
 
 # Como Executar o Programa
 
