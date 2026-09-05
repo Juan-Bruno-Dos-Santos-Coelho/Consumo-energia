@@ -12,6 +12,6 @@ custo_estimado = consumo_mensal * tarifa
 
 # Saidas  dos resultados formatados
 print("\n" + "="*30)
-print("Aparelho: nome_aparelho")
+print(f"Aparelho: {nome_aparelho}")
 print(f"Consumo estimado: {consumo_mensal:.2f} kWh/mês")
 print(f"Custo mensal estimado: R$ {custo_estimado:.2f}")
