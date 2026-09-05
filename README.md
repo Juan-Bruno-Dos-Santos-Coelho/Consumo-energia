@@ -6,9 +6,9 @@ O sistema consiste em uma ferramenta de linha de comando que ajuda usuários a e
 Aprender a manipular dados de entradas e 
 
 # 🔧Tecnologias Utilizadas
-import { GitIcon, Git } from "@dev.icons/react";
-<GitIcon size={32} />
-<Git size={32} />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
 
 # Como Executar o Programa
 
