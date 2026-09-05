@@ -7,10 +7,11 @@ Aprender a manipular dados de entradas e
 
 # 🔧Tecnologias Utilizadas
 <div style="display: inline-block;">
-  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Python" height="40" width="40" src="https://jsdelivr.net">
   <img align="center" alt="Git" height="40" width="40" src="https://jsdelivr.net">
   <img align="center" alt="GitHub" height="40" width="40" src="https://jsdelivr.net">
 </div>
+
 
 
 # Como Executar o Programa
